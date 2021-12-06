@@ -1,5 +1,5 @@
 # Test code without EDA
-**The following notebook , is a test playground for trying the different classifier models, the dataset it uses is a semi-cleaned dataset.**
+**The following notebook , is a test playground for trying the different classifier models, the dataset it uses the cleaned dataset.**
 
 To reproduce the results of the notebook you can open the following Jupyter Notebook in colab.
 

@@ -1,4 +1,9 @@
 # Classifying Products of Amazon India based on the product description
+## Content
+  1. **[Introduction](https://github.com/abhishek-pes/DA-Project-Amazon-product-listing/edit/main/README.md)**
+  2. **[Model Evaluation](https://github.com/abhishek-pes/DA-Project-Amazon-product-listing/blob/main/docs/modelPerformance.md)**
+  3. **[Contribution](https://github.com/abhishek-pes/DA-Project-Amazon-product-listing/blob/main/docs/contribution.md)**
+
 ## Problem statement
 The problem statement we are trying to solve is to create a multi-class classifier model , which will help to classify products based on the product description given. This is intended to improve the overall search and user experience while searching for any product on an ecommerce website like Amazon.
 

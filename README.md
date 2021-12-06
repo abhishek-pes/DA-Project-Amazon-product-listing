@@ -1,6 +1,6 @@
 # Classifying Products of Amazon India based on the product description
 ## Content
-  1. **[Introduction](https://github.com/abhishek-pes/DA-Project-Amazon-product-listing/edit/main/README.md)**
+  1. **[Introduction](https://github.com/abhishek-pes/DA-Project-Amazon-product-listing#problem-statement)**
   2. **[Model Evaluation](https://github.com/abhishek-pes/DA-Project-Amazon-product-listing/blob/main/docs/modelPerformance.md)**
   3. **[Contribution](https://github.com/abhishek-pes/DA-Project-Amazon-product-listing/blob/main/docs/contribution.md)**
 
